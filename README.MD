@@ -23,3 +23,9 @@ Draft
 
 erdplus.com
 ![alt Image04](erdplus-diagram.png)
+
+I can't figure out if Landlord -> SignRentalContract -> Tenant is the same that Tenant -> Rent -> Apartment. By my 
+understanding, a Person/Visitor become a Tenant (rent an apartment) at the same time that him 
+SignRentalContract with the Landlord.
+
+But, I decided let the SignRentalContract relationship explicit.
