@@ -10,6 +10,16 @@ We suggest ER diagram as an outcome of this task but you can choose a format tha
 
 ##Solution
 
-First, I draw the big picture. [Image 1](20180722_105708.jpg)
+First, I draw the big picture. [Image 01](20180722_105708.jpg)
+![alt image01](20180722_105708.jpg)
 
-After that, I expanded to a class diagram. [Image 2](20180722_111905.jpg)
+Second, I expanded to a class diagram. [Image 02](20180722_111905.jpg)
+![alt image02](20180722_111905.jpg)
+
+Finally, I draw a entity relationship diagram [Image 03](20180722_123619.jpg)[Image 04](erdplus-diagram.png)
+
+Draft
+![alt image03](20180722_123619.jpg)
+
+erdplus.com
+![alt image04](erdplus-diagram.png)
