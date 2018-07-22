@@ -1,4 +1,4 @@
-#Task 1: Domain Modelling
+# Task 1: Domain Modelling
 Please create the domain model for the following use cases:
 1) A landlord can rent out a separate apartment, the whole building or several apartments to another party.
 2) A landlord can sign a rental contract with one or multiple tenants.
@@ -8,7 +8,7 @@ Please create the domain model for the following use cases:
 
 We suggest ER diagram as an outcome of this task but you can choose a format that makes more sense for you.
 
-##Solution
+## Solution
 
 First, I draw the big picture. [Image01](20180722_105708.jpg)
 ![alt Image01](20180722_105708.jpg)
